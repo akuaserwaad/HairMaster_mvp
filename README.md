@@ -1,12 +1,4 @@
-ALX REsearch Portfolio
-
-Authors: 
-
-Obed Kwartekwei Quartey
-
-Akua Serwaa Dankwah
-
-![image](https://github.com/akuaserwaad/HairMaster/assets/141341733/a24a5788-22c9-4536-86f4-0e81660a3c74)
+https://github.com/akuaserwaad/HairMaster_mvp/blob/master/images/IMG_7029.png
 
 Hairmaster: A Revolutionary Hair Care Platform
 
