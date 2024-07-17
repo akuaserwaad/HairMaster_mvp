@@ -1,0 +1,185 @@
+/* Base styles */
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #1e1e1e;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+.logo {
+  display: block;
+  margin: 20px auto;
+  width: 200px;
+  height: auto;
+}
+
+.links {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.link-item {
+  display: block;
+  margin-right: 25px;
+}
+
+.link {
+  text-decoration: none;
+  color: rgba(30, 30, 30, 0.5);
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.4s;
+}
+
+.link:hover {
+  color: rgba(175, 62, 51, 1);
+}
+
+/* Main */
+.main {
+  text-align: center;
+}
+
+.top {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.subtop {
+  font-size: 14px;
+}
+
+.content {
+  font-size: 17px;
+  text-align: left;
+  margin-left: 50px;
+}
+
+.tent {
+  color: #1e1e1e;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.left-side,
+.right-side {
+  flex: 1;
+  padding: 0 20px;
+}
+
+.left-side {
+  border-right: 2px solid #ccc;
+}
+
+.left-content {
+  margin-left: 100px;
+}
+
+.right-content {
+  margin-left: 20px;
+}
+
+.head {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-left: 20px;
+  padding-left: 10px;
+}
+
+li {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.content-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.checkboxes {
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-checkbox {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.custom-checkbox input {
+  margin-right: 10px;
+}
+
+.signin {
+  margin-top: 20px;
+}
+
+.time {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.form .inPut {
+  font-size: 14px;
+  padding: 5px;
+}
+
+.bkappt {
+  text-align: right;
+  margin-right: 120px;
+  margin-bottom: 50px;
+  margin-top: 30px;
+}
+
+.bkappt:hover {
+  cursor: pointer;
+  color: #af3e33;
+}
+
+.joint {
+  width: 150px;
+  padding: 8px;
+  font-size: 12px;
+  height: 35px;
+  position: relative;
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: #f8f8f8;
+}
+
+.sub {
+  font-size: 12px;
+  margin: 20px 0;
+}
+
+.copyright {
+  font-size: 12px;
+  color: #777;
+  margin-top: 10px;
+}
