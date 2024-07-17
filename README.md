@@ -1,12 +1,4 @@
-ALX REsearch Portfolio
-
-Authors: 
-
-Obed Kwartekwei Quartey
-
-Akua Serwaa Dankwah
-
-![image](https://github.com/akuaserwaad/HairMaster/assets/141341733/a24a5788-22c9-4536-86f4-0e81660a3c74)
+![image](https://github.com/user-attachments/assets/f21f4245-2292-4a6f-bc36-788c774a7055)
 
 Hairmaster: A Revolutionary Hair Care Platform
 
@@ -39,7 +31,7 @@ License
 
 Hairmaster is licensed under the MIT License, allowing free use, modification, and distribution.
 
-![image](https://github.com/akuaserwaad/HairMaster/assets/141341733/d6cd7c85-b8c5-495f-9994-9592f589d4e4)
+![image](https://github.com/user-attachments/assets/bec90879-570a-46da-be09-2e8965207bfa)
 
 Authors
 - Obed Kwartekwei Quartey
@@ -71,19 +63,19 @@ Skills Demonstrated
 - Team collaboration and leadership
 
 Deployed Site
-((https://hairmaster.onrender.com/))
+((https://hairmaster-mvp.onrender.com))
 
 Final Project Blog Article
 ((https://www.linkedin.com/pulse/building-hairmaster-personal-journey-overcoming-hair-care-quartey-0dkne))
 
 
 Installation
-1. Clone the repository: `git clone https://github.com/akuaserwaad/HairMaster.git
+1. Clone the repository: `git clone https://github.com/akuaserwaad/HairMaster_mvp.git
 2. Install dependencies: npm install
 3. Start the application: npm start
 
 Usage
-1. Access the application at (https://hairmaster.onrender.com/)
+1. Access the application at (https://hairmaster-mvp.onrender.com)
 2. Explore the features and functionalities of Hairmaster
 
 Contributing
