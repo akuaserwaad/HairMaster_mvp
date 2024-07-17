@@ -1,4 +1,4 @@
-https://github.com/akuaserwaad/HairMaster_mvp/blob/master/images/IMG_7029.png
+![image](https://github.com/user-attachments/assets/f21f4245-2292-4a6f-bc36-788c774a7055)
 
 Hairmaster: A Revolutionary Hair Care Platform
 
@@ -31,7 +31,7 @@ License
 
 Hairmaster is licensed under the MIT License, allowing free use, modification, and distribution.
 
-![image](https://github.com/akuaserwaad/HairMaster/assets/141341733/d6cd7c85-b8c5-495f-9994-9592f589d4e4)
+![image](https://github.com/user-attachments/assets/bec90879-570a-46da-be09-2e8965207bfa)
 
 Authors
 - Obed Kwartekwei Quartey
