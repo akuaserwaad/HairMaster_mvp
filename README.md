@@ -70,12 +70,12 @@ Final Project Blog Article
 
 
 Installation
-1. Clone the repository: `git clone https://github.com/akuaserwaad/HairMaster.git
+1. Clone the repository: `git clone https://github.com/akuaserwaad/HairMaster_mvp.git
 2. Install dependencies: npm install
 3. Start the application: npm start
 
 Usage
-1. Access the application at (https://hairmaster.onrender.com/)
+1. Access the application at (https://hairmaster-mvp.onrender.com)
 2. Explore the features and functionalities of Hairmaster
 
 Contributing
