@@ -1,3 +1,7 @@
 ALX REsearch Portfolio
 
-Authors: Obed Quartey and Akua Serwaa Dankwah
+Authors: 
+
+Obed Kwartekwei Quartey
+
+Akua Serwaa Dankwah
