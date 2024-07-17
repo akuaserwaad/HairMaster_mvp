@@ -44,7 +44,7 @@ Hairmaster is licensed under the MIT License, allowing free use, modification, a
 Authors
 - Obed Kwartekwei Quartey
   
-  Project Lead and Frontend Developer
+   Project Lead and Backend Developer
   
   ((www.linkedin.com/in/okquartey))
   
@@ -52,7 +52,7 @@ Authors
   
 - Akua Serwaa Dankwah
   
-  Backend Developer and Stylist Consultant
+  Stylist Consultant and Frontend Developer
   
   ((https://www.linkedin.com/in/akua-serwaa-dankwah-aa8912a7/))
   
