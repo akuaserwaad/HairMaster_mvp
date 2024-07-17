@@ -63,7 +63,7 @@ Skills Demonstrated
 - Team collaboration and leadership
 
 Deployed Site
-((https://hairmaster.onrender.com/))
+((https://hairmaster-mvp.onrender.com))
 
 Final Project Blog Article
 ((https://www.linkedin.com/pulse/building-hairmaster-personal-journey-overcoming-hair-care-quartey-0dkne))
